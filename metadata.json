@@ -1,0 +1,5 @@
+{
+  "name": "SFLIX",
+  "description": "A premium, Netflix-inspired streaming interface powered by Gemini AI for intelligent movie recommendations and dynamic content generation.",
+  "requestFramePermissions": []
+}
